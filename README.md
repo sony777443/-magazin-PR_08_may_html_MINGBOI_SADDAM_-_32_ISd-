@@ -58,5 +58,17 @@ JavaScript
 Страницы товаров и корзины.Ссылки на `index3.html`, `index6.html` и т. д. являются заглушками. Для полноценной работы создайте соответствующие HTML‑страницы.
 Корзина. Текущая реализация хранит количество товаров только в памяти браузера (переменная `count`). При обновлении страницы счётчик сбрасывается. Для сохранения данных потребуется серверная часть или `localStorage`.
 
- Лицензия
-Этот проект распространяется под лицензией MIT.
+ 
+## Как запустить локально
+
+ Клонирование  репозиторий:
+   ```bash
+   git clone https://github.com/ваш-username/ваш-проект.git
+   cd ваш-проект
+   ```
+<img width="921" height="574" alt="image" src="https://github.com/user-attachments/assets/3b5b186f-d79e-42a3-b4ae-8355967714d9" />
+<img width="709" height="958" alt="image" src="https://github.com/user-attachments/assets/f8014738-eb2e-4299-bdaf-03790d877310" />
+<img width="1041" height="531" alt="image" src="https://github.com/user-attachments/assets/2013feaf-a435-4879-8af7-b372b56d8cf9" />
+
+
+
